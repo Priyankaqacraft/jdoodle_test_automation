@@ -1,1 +1,0 @@
-[{"uid":"46319f21f1260fdc","name":"Testcase_001_verifyLeftPanel_Without_Login.","time":{"start":1697547930452,"stop":1697547962781,"duration":32329},"status":"broken","severity":"normal"},{"uid":"7d5c5bf88b9c7822","name":"Testcase_001_Login with valid credentials.","time":{"start":1697547930454,"stop":1697547938092,"duration":7638},"status":"passed","severity":"normal"}]

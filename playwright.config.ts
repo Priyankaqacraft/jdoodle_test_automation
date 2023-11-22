@@ -9,7 +9,6 @@ const config: PlaywrightTestConfig = {
     /* Maximum time one test can run for. */
     timeout: 30 * 1000,
 
-
     expect: {
       /**
        * Maximum time expect() should wait for the condition to be met.
@@ -35,7 +34,7 @@ const config: PlaywrightTestConfig = {
       channel: 'chrome',
       headless: false,
       /* Base URL to use in actions like `await page.goto('/')`. */
-      baseURL: 'https://dev02.jdoodle.com/',
+      baseURL: 'https://dev01.jdoodle.com/',
       // viewport: {width:1920, height:1080},
       screenshot: "on",
       video: {
