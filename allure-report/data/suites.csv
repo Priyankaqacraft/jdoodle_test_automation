@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Oct 17 18:35:30 IST 2023","Tue Oct 17 18:36:02 IST 2023","32329","chromium","left-panel-test/left_panel.spec.ts","LeftPanel","","","Testcase_001_verifyLeftPanel_Without_Login.",""
+"passed","Tue Oct 17 18:35:30 IST 2023","Tue Oct 17 18:35:38 IST 2023","7638","chromium","login.spec.ts","Login","","","Testcase_001_Login with valid credentials.",""

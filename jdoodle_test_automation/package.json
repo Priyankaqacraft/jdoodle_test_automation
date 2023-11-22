@@ -1,0 +1,27 @@
+{
+  "name": "jdoodle_test_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QACRAFT PRIVATE LIMITED",
+  "license": "ISC",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.6.5",
+    "mailslurp-client": "^15.17.2",
+    "mailtrap": "^3.2.0",
+    "nodemailer": "^6.9.6",
+    "playwright": "^1.39.0",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.6",
+    "allure-playwright": "^2.9.2"
+  }
+}
